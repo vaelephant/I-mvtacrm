@@ -1,0 +1,53 @@
+{
+  "RootLayout": {
+    "title": "SaasHQ",
+    "description": "SaasHQ 是一个基于 NextJS 构建的开源 CRM 应用程序。"
+  },
+  "ModuleMenu": {
+    "dashboard": "仪表板",
+    "crm": {
+      "title": "销售",
+      "accounts": "公司",
+      "opportunities": "机会",
+      "contacts": "联系人",
+      "leads": "潜在客户"
+    },
+    "projects": "项目",
+    "emails": "电子邮件",    
+    "tasks": "任务",
+    "invoices": "发票",
+    "reports": "报告",
+    "documents": "文档",
+    "storage": "存储",
+    "settings": "管理"
+  },
+  "DashboardPage": {
+    "containerTitle": "仪表板",
+    "totalRevenue": "总收入",
+    "containerDescription": "欢迎使用 SaasHQ，您可以在这里查看关于您的业务的所有重要信息。",
+    "expectedRevenue": "预期收入",
+    "activeUsers": "活跃用户",
+    "accounts": "公司",
+    "opportunities": "机会",
+    "contacts": "联系人",
+    "leads": "潜在客户",
+    "projects": "项目",
+    "tasks": "任务",
+    "myTasks": "我的任务",
+    "invoices": "发票",
+    "documents": "文档",
+    "storage": "存储"
+  },  
+  "RegisterComponent": {
+    "cardTitle": "创建新账号",
+    "cardDescription": "通过以下方式注册账号",
+    "label": "语言",
+    "locale": "{locale, select, de {德语} en {英语} cz {捷克语} uk {乌克兰语} cn {中文} other {未知}}"
+  },
+  "CrmModuleMenuComponent": {
+    "menuTitle": "销售",
+    "cardDescription": "通过以下方式注册账号",
+    "label": "语言",
+    "locale": "{locale, select, de {德语} en {英语} cz {捷克语} uk {乌克兰语} cn {中文} other {未知}}"        
+  }
+}
